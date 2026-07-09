@@ -1,0 +1,187 @@
+[
+  {
+    "id": "1",
+    "question": "What are the common symptoms of ADHD in adults?",
+    "category": "factual",
+    "expected_behavior": "should_answer",
+    "naive_answer": "Common symptoms of ADHD in adults can include:\n\n*   **Inattention:**\n    *   Difficulty paying attention, staying on task, or being organized.\n    *   Often getting distracted.\n    *   Disorganization and procrastination.\n    *   Poor time management, planning, or organization.\n    *   Trouble remembering daily tasks.\n    *   Frequently losing things or being forgetful in activities.\n    *   Trouble focusing on a large task or multitasking.\n    *   Trouble following instructions or finishing projects.\n\n*   **Hyperactivity:**\n    *   Excessive activity or restlessness, even at inappropriate times.\n    *   Difficulty engaging in quiet activities.\n    *   Difficulty sitting still for long periods and often moving or fidgeting.\n    *   Feelings of restlessness and a need for constant activity or stimulation.\n\n*   **Impulsivity:**\n    *   Acting without thinking or having trouble with self-control.\n    *   Frequently interrupting others or being very talkative.\n    *   Choosing immediate rewards over future rewards or consequences.\n\nAdults with ADHD may also be irritable, have a low tolerance for frustration and stress, or experience frequent or intense mood changes.",
+    "verified_answer": "Common symptoms of ADHD in adults can include:\n\n*   **Inattention:**\n    *   Difficulty paying attention, staying on task, or being organized.\n    *   Often getting distracted.\n    *   Disorganization and procrastination.\n    *   Poor time management, planning, or organization.\n    *   Trouble remembering daily tasks.\n    *   Frequently losing things or being forgetful in activities.\n    *   Trouble focusing on a large task or multitasking.\n    *   Trouble following instructions or finishing projects.\n\n*   **Hyperactivity:**\n    *   Excessive activity or restlessness, even at inappropriate times.\n    *   Difficulty engaging in quiet activities.\n    *   Difficulty sitting still for long periods and often moving or fidgeting.\n    *   Feelings of restlessness and a need for constant activity or stimulation.\n\n*   **Impulsivity:**\n    *   Acting without thinking or having trouble with self-control.\n    *   Frequently interrupting others or being very talkative.\n    *   Choosing immediate rewards over future rewards or consequences.\n\nAdults with ADHD may also be irritable, have a low tolerance for frustration and stress, or experience frequent or intense mood changes.",
+    "total_claims": 16,
+    "flagged_claims": 0,
+    "hallucination_rate": 0.0,
+    "sources_used": [
+      "nimh_adhd_adults.txt",
+      "cdc_adhd_symptoms.txt",
+      "cdc_adhd_about.txt",
+      "nimh_adhd_what_to_know.txt"
+    ]
+  },
+  {
+    "id": "2",
+    "question": "How many children in the US have been diagnosed with ADHD?",
+    "category": "factual",
+    "expected_behavior": "should_answer",
+    "naive_answer": "An estimated 7 million U.S. children aged 3\u201317 years have ever been diagnosed with ADHD, according to a national survey of parents using data from 2022. This represents 11.4% of children in that age group.",
+    "verified_answer": "An estimated 7 million U.S. [\u26a0\ufe0f UNSUPPORTED] children aged 3\u201317 years have ever been diagnosed with ADHD, according to a national survey of parents using data from 2022. This represents 11.4% of children in that age group.",
+    "total_claims": 3,
+    "flagged_claims": 1,
+    "hallucination_rate": 0.3333333333333333,
+    "sources_used": [
+      "cdc_adhd_state_prevalence.txt",
+      "cdc_adhd_data_stats.txt",
+      "chadd_myths_misunderstandings.txt"
+    ]
+  },
+  {
+    "id": "3",
+    "question": "What treatments are available for ADHD?",
+    "category": "factual",
+    "expected_behavior": "should_answer",
+    "naive_answer": "Available treatments for ADHD include:\n\n*   **Medication**:\n    *   Stimulant medications are the most common type and are highly effective.\n    *   Nonstimulant medications are also available.\n*   **Psychotherapy and Behavioral Interventions**:\n    *   Psychotherapy, such as behavioral therapy and cognitive behavioral therapy.\n    *   Parent training in behavior management, especially for children.\n    *   Behavioral interventions in the classroom and school-based programs.\n*   **Other Supports**:\n    *   Life coaches or ADHD coaches can help teach executive function skills.\n    *   Lifestyle changes, like adding more physical exercise, may also be helpful.\n*   **Newer Treatments (often explored after medication and psychotherapy)**:\n    *   Cognitive training\n    *   Neurofeedback\n    *   Mindfulness\n    *   Neuromodulation\n\nEffective treatment often involves a combination of these elements, and people may need to try several treatments before finding what works best for them.",
+    "verified_answer": "Available treatments for ADHD include:\n\n*   **Medication**:\n    *   Stimulant medications are the most common type and are highly effective.\n    *   Nonstimulant medications are also available.\n*   **Psychotherapy and Behavioral Interventions**:\n    *   Psychotherapy, such as behavioral therapy and cognitive behavioral therapy.\n    *   Parent training in behavior management, especially for children.\n    *   Behavioral interventions in the classroom and school-based programs.\n*   **Other Supports**:\n    *   Life coaches or ADHD coaches can help teach executive function skills.\n    *   Lifestyle changes, like adding more physical exercise, may also be helpful.\n*   **Newer Treatments (often explored after medication and psychotherapy)**:\n    *   Cognitive training\n    *   Neurofeedback\n    *   Mindfulness\n    *   Neuromodulation\n\nEffective treatment often involves a combination of these elements, and people may need to try several treatments before finding what works best for them.",
+    "total_claims": 8,
+    "flagged_claims": 0,
+    "hallucination_rate": 0.0,
+    "sources_used": [
+      "nimh_adhd_adults.txt",
+      "cdc_adhd_treatment.txt",
+      "nimh_adhd_overview.txt",
+      "nimh_adhd_what_to_know.txt"
+    ]
+  },
+  {
+    "id": "4",
+    "question": "How is ADHD diagnosed?",
+    "category": "factual",
+    "expected_behavior": "should_answer",
+    "naive_answer": "Diagnosing ADHD is a multi-step process. There isn't a single test for it, and other conditions like sleep disorders, anxiety, depression, or learning disabilities can have similar symptoms.\n\nThe first step is to talk with a healthcare provider. A diagnosis can be made by a mental health professional (like a psychologist or psychiatrist) or a primary care provider (like a pediatrician).\n\nDuring an evaluation, a provider typically:\n*   Examines the person\u2019s mental health and medical history, including mood and past or current health conditions.\n*   Looks at the person\u2019s current behavior and, for adults, childhood behavior and school experiences. They may gather information from family, friends, partners, or teachers about behaviors in different settings.\n*   Uses standardized behavior rating scales or ADHD symptom checklists.\n*   For children, a medical exam, including hearing and vision tests, may be done to rule out other problems.\n\nTo be diagnosed with ADHD, specific criteria must be met:\n*   Symptoms must begin in childhood (before age 12).\n*   Symptoms must occur for at least 6 months.\n*   Symptoms must be present in two or more settings (e.g., at home, at work, in school, or with friends).\n*   Symptoms must interfere with or impair social, school, or work functioning.\n*   The number of symptoms needed for diagnosis differs by age:\n    *   Children up to 16 years must show at least six symptoms of inattention, hyperactivity and impulsivity, or both.\n    *   Adults and youth over 16 years must show at least five symptoms of inattention, hyperactivity and impulsivity, or both.\n\nBased on symptoms, a person can be diagnosed with one of three types of ADHD:\n*   **Inattentive**: Mostly symptoms of inattention.\n*   **Hyperactive-impulsive**: Mostly symptoms of hyperactivity and impulsivity.\n*   **Combined**: Symptoms of both inattention and hyperactivity and impulsivity.",
+    "verified_answer": "Diagnosing ADHD is a multi-step process. There isn't a single test for it, and other conditions like sleep disorders, anxiety, depression, or learning disabilities can have similar symptoms.\n\nThe first step is to talk with a healthcare provider. A diagnosis can be made by a mental health professional (like a psychologist or psychiatrist) or a primary care provider (like a pediatrician).\n\nDuring an evaluation, a provider typically:\n*   Examines the person\u2019s mental health and medical history, including mood and past or current health conditions.\n*   Looks at the person\u2019s current behavior and, for adults, childhood behavior and school experiences. They may gather information from family, friends, partners, or teachers about behaviors in different settings.\n*   Uses standardized behavior rating scales or ADHD symptom checklists.\n*   For children, a medical exam, including hearing and vision tests, may be done to rule out other problems.\n\nTo be diagnosed with ADHD, specific criteria must be met:\n*   Symptoms must begin in childhood (before age 12).\n*   Symptoms must occur for at least 6 months.\n*   Symptoms must be present in two or more settings (e.g., at home, at work, in school, or with friends).\n*   Symptoms must interfere with or impair social, school, or work functioning.\n*   The number of symptoms needed for diagnosis differs by age:\n    *   Children up to 16 years must show at least six symptoms of inattention, hyperactivity and impulsivity, or both.\n    *   Adults and youth over 16 years must show at least five symptoms of inattention, hyperactivity and impulsivity, or both.\n\nBased on symptoms, a person can be diagnosed with one of three types of ADHD:\n*   **Inattentive**: Mostly symptoms of inattention.\n*   **Hyperactive-impulsive**: Mostly symptoms of hyperactivity and impulsivity.\n*   **Combined**: Symptoms of both inattention and hyperactivity and impulsivity.",
+    "total_claims": 18,
+    "flagged_claims": 0,
+    "hallucination_rate": 0.0,
+    "sources_used": [
+      "cdc_adhd_about.txt",
+      "cdc_adhd_symptoms.txt",
+      "cdc_adhd_diagnosis.txt",
+      "nimh_adhd_what_to_know.txt"
+    ]
+  },
+  {
+    "id": "5",
+    "question": "Does ADHD prevalence vary by US state?",
+    "category": "factual",
+    "expected_behavior": "should_answer",
+    "naive_answer": "Yes, ADHD prevalence varies by US state. National estimates among U.S. children aged 3\u201317 years who have ever been diagnosed with ADHD vary from 6% to 16% across states.",
+    "verified_answer": "Yes, ADHD prevalence varies by US state. National estimates among U.S. [\u26a0\ufe0f UNSUPPORTED] children aged 3\u201317 years who have ever been diagnosed with ADHD vary from 6% to 16% across states. [\u26a0\ufe0f UNSUPPORTED]",
+    "total_claims": 3,
+    "flagged_claims": 2,
+    "hallucination_rate": 0.6666666666666666,
+    "sources_used": [
+      "cdc_adhd_state_prevalence.txt",
+      "cdc_adhd_data_stats.txt",
+      "adhd_global_burden_disease.txt"
+    ]
+  },
+  {
+    "id": "6",
+    "question": "Is ADHD caused by bad parenting?",
+    "category": "myth",
+    "expected_behavior": "should_correct_myth",
+    "naive_answer": "No, the context indicates that parents who discipline, nag, and coerce their child, or belittle and shame them for behaviors they couldn't help, are acting on a misunderstanding of ADHD and its true cause. It explains that ADHD is a brain chemistry problem, and that genes play a large role. Researchers are also looking at differences in brain development and neurobiology, and environmental factors like brain injuries and nutrition.",
+    "verified_answer": "No, the context indicates that parents who discipline, nag, and coerce their child, or belittle and shame them for behaviors they couldn't help, are acting on a misunderstanding of ADHD and its true cause. It explains that ADHD is a brain chemistry problem, and that genes play a large role. Researchers are also looking at differences in brain development and neurobiology, and environmental factors like brain injuries and nutrition.",
+    "total_claims": 3,
+    "flagged_claims": 0,
+    "hallucination_rate": 0.0,
+    "sources_used": [
+      "chadd_myths_early_deaths.txt",
+      "chadd_myths_misunderstandings.txt",
+      "adhd_global_burden_disease.txt",
+      "nimh_adhd_what_to_know.txt"
+    ]
+  },
+  {
+    "id": "7",
+    "question": "Do only hyperactive boys have ADHD?",
+    "category": "myth",
+    "expected_behavior": "should_correct_myth",
+    "naive_answer": "No, only hyperactive boys do not have ADHD. Anyone can have ADHD, and it can be diagnosed at any age. While boys and men tend to show more hyperactive and impulsive symptoms, girls and women are more often diagnosed with inattentive ADHD. There are three types of ADHD: Inattentive, Hyperactive-impulsive, and Combined, which includes both sets of symptoms. ADHD symptoms can also change as a person gets older.",
+    "verified_answer": "No, only hyperactive boys do not have ADHD. Anyone can have ADHD, and it can be diagnosed at any age. While boys and men tend to show more hyperactive and impulsive symptoms, girls and women are more often diagnosed with inattentive ADHD. There are three types of ADHD: Inattentive, Hyperactive-impulsive, and Combined, which includes both sets of symptoms. ADHD symptoms can also change as a person gets older.",
+    "total_claims": 5,
+    "flagged_claims": 0,
+    "hallucination_rate": 0.0,
+    "sources_used": [
+      "chadd_myths_early_deaths.txt",
+      "cdc_adhd_data_stats.txt",
+      "chadd_myths_misunderstandings.txt",
+      "nimh_adhd_what_to_know.txt"
+    ]
+  },
+  {
+    "id": "8",
+    "question": "Is ADHD just a made-up disorder that isn't real?",
+    "category": "myth",
+    "expected_behavior": "should_correct_myth",
+    "naive_answer": "No, ADHD is not a made-up disorder. Research indicates that ADHD cases were described as far back as 1775, and over 10,000 clinical and scientific publications have been published on it. Studies show numerous differences between individuals with and without ADHD.\n\nADHD is a developmental disorder that impairs major life activities, including social, emotional, academic, and work functioning, and symptoms begin in childhood. It is considered a lifespan disorder, as the majority of children with ADHD continue to struggle with symptoms as adults.\n\nResearch also shows that ADHD runs in families, with a 57% chance of heritability for a child if a parent has ADHD, and a 70%\u201380% chance for a twin if the other twin has ADHD. Brain scan studies reveal differences in the brain development of individuals with ADHD, such such as cortical thinning in frontal regions, reduced volume in the inferior frontal gyrus, and reduced gray matter in various cortical areas.",
+    "verified_answer": "No, ADHD is not a made-up disorder. Research indicates that ADHD cases were described as far back as 1775, and over 10,000 clinical and scientific publications have been published on it. Studies show numerous differences between individuals with and without ADHD.\n\nADHD is a developmental disorder that impairs major life activities, including social, emotional, academic, and work functioning, and symptoms begin in childhood. It is considered a lifespan disorder, as the majority of children with ADHD continue to struggle with symptoms as adults.\n\nResearch also shows that ADHD runs in families, with a 57% chance of heritability for a child if a parent has ADHD, and a 70%\u201380% chance for a twin if the other twin has ADHD. Brain scan studies reveal differences in the brain development of individuals with ADHD, such such as cortical thinning in frontal regions, reduced volume in the inferior frontal gyrus, and reduced gray matter in various cortical areas.",
+    "total_claims": 7,
+    "flagged_claims": 0,
+    "hallucination_rate": 0.0,
+    "sources_used": [
+      "nimh_adhd_adults.txt",
+      "chadd_myths_misunderstandings.txt",
+      "chadd_ten_myths.txt",
+      "nimh_adhd_what_to_know.txt"
+    ]
+  },
+  {
+    "id": "9",
+    "question": "Can smart people have ADHD?",
+    "category": "myth",
+    "expected_behavior": "should_correct_myth",
+    "naive_answer": "Yes, smart people can have ADHD. Intelligence, as measured by IQ tests, has virtually no systematic relationship to the executive function impairments of ADHD.\n\nStudies have shown that even individuals with extremely high IQs, both children and adults, can suffer from ADHD impairments that significantly affect their ability to use their cognitive skills consistently and effectively in daily life. Many children with ADHD can do well in school and are smart.\n\nThe idea that high IQ precludes ADHD is a misconception that can lead to delays in diagnosis and treatment for individuals with ADHD.",
+    "verified_answer": "Yes, smart people can have ADHD. Intelligence, as measured by IQ tests, has virtually no systematic relationship to the executive function impairments of ADHD.\n\nStudies have shown that even individuals with extremely high IQs, both children and adults, can suffer from ADHD impairments that significantly affect their ability to use their cognitive skills consistently and effectively in daily life. Many children with ADHD can do well in school and are smart.\n\nThe idea that high IQ precludes ADHD is a misconception that can lead to delays in diagnosis and treatment for individuals with ADHD.",
+    "total_claims": 5,
+    "flagged_claims": 0,
+    "hallucination_rate": 0.0,
+    "sources_used": [
+      "chadd_myths_early_deaths.txt",
+      "chadd_myths_misunderstandings.txt",
+      "chadd_ten_myths.txt",
+      "nimh_adhd_what_to_know.txt"
+    ]
+  },
+  {
+    "id": "10",
+    "question": "Does having ADHD mean you always struggle to focus on everything?",
+    "category": "myth",
+    "expected_behavior": "should_correct_myth",
+    "naive_answer": "No, having ADHD does not mean you always struggle to focus on everything. People with ADHD can focus, often intensely (sometimes called hyperfocus), when something truly interests them. They may even find it hard to switch to another activity when they are focused on something they find interesting.",
+    "verified_answer": "No, having ADHD does not mean you always struggle to focus on everything. People with ADHD can focus, often intensely (sometimes called hyperfocus), when something truly interests them. They may even find it hard to switch to another activity when they are focused on something they find interesting.",
+    "total_claims": 3,
+    "flagged_claims": 0,
+    "hallucination_rate": 0.0,
+    "sources_used": [
+      "nimh_adhd_adults.txt",
+      "chadd_myths_early_deaths.txt",
+      "chadd_ten_myths.txt",
+      "nimh_adhd_what_to_know.txt"
+    ]
+  },
+  {
+    "id": "11",
+    "question": "Is ADHD over-diagnosed today?",
+    "category": "myth",
+    "expected_behavior": "should_correct_myth",
+    "naive_answer": "While there has been a rise in diagnosed ADHD rates, leading some to wonder if it's over-diagnosed, a report based on the 2014 National Survey of the Diagnosis and Treatment of ADHD and Tourette Syndrome found that children are being carefully diagnosed by healthcare practitioners. The vast majority (9 out of 10) of children diagnosed with ADHD were diagnosed using best practice guidelines.\n\nPossible explanations for increased diagnostic rates include improved awareness among healthcare practitioners and parents, more screenings, decreased stigma, availability of better treatment options, and more cases arising from suspected environmental causes.",
+    "verified_answer": "While there has been a rise in diagnosed ADHD rates, leading some to wonder if it's over-diagnosed, a report based on the 2014 National Survey of the Diagnosis and Treatment of ADHD and Tourette Syndrome found that children are being carefully diagnosed by healthcare practitioners. The vast majority (9 out of 10) of children diagnosed with ADHD were diagnosed using best practice guidelines.\n\nPossible explanations for increased diagnostic rates include improved awareness among healthcare practitioners and parents, more screenings, decreased stigma, availability of better treatment options, and more cases arising from suspected environmental causes.",
+    "total_claims": 3,
+    "flagged_claims": 0,
+    "hallucination_rate": 0.0,
+    "sources_used": [
+      "chadd_myths_early_deaths.txt",
+      "chadd_myths_misunderstandings.txt",
+      "adhd_global_burden_disease.txt",
+      "nimh_adhd_what_to_know.txt"
+    ]
+  }
+]

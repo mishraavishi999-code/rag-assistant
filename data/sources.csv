@@ -1,0 +1,11 @@
+filename,title,source_url,date_retrieved,notes
+cdc_adhd_data_stats.txt,Data and Statistics on ADHD,https://www.cdc.gov/adhd/data/index.html,2026-07-08,CDC official stats page
+cdc_adhd_throughout_years.txt,Facts About ADHD Throughout the Years,https://www.cdc.gov/adhd/data/adhd-throughout-the-years.html,2026-07-08,CDC historical trend data
+cdc_adhd_state_prevalence.txt,State-Level Estimates of ADHD Prevalence,https://www.cdc.gov/adhd/data/state-based-prevalence-of-adhd-diagnosis-and-treatment-2016-2019.html,2026-07-08,CDC state-level data 2016-2019
+cdc_adhd_about.txt,About ADHD,https://www.cdc.gov/adhd/about/index.html,2026-07-08,CDC overview page
+cdc_adhd_symptoms.txt,Signs and Symptoms of ADHD,https://www.cdc.gov/adhd/signs-symptoms/index.html,2026-07-08,CDC symptoms page
+cdc_adhd_diagnosis.txt,Diagnosing ADHD,https://www.cdc.gov/adhd/diagnosis/index.html,2026-07-08,CDC diagnosis criteria page
+cdc_adhd_treatment.txt,Treatment of ADHD,https://www.cdc.gov/adhd/treatment/index.html,2026-07-08,CDC treatment overview page
+chadd_ten_myths.txt,Ten Myths About ADHD and Why They are Wrong,https://chadd.org/attention-article/ten-myths-about-adhd-and-why-they-are-wrong/,2026-07-08,Extracted from PDF version via archive
+adhd_epigenetics_review.txt,ADHD in Light of the Epigenetic Paradigm,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4585002/,2026-07-08,PMC peer-reviewed review; fetched via Europe PMC API
+adhd_global_burden_disease.txt,ADHD Global Burden of Disease Comparative Analysis,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11983595/,2026-07-08,PMC peer-reviewed; fetched via Europe PMC API

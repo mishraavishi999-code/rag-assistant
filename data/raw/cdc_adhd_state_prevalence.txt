@@ -1,0 +1,21 @@
+This page displays the prevalence of (or percentage of children who have been diagnosed with) ADHD in each U.S. state from 2016–2019 and 2020–2023.
+You can also view data about children receiving treatment for ADHD.
+Information on this page is intended for healthcare providers, public health professionals, and those interested in reviewing ADHD data.
+Overview
+CDC uses national surveys that ask parents about their child's health to monitor the number of children with ADHD and the treatment patterns for these children. The data presented on this page are from the current version of the
+National Survey of Children's Health,
+which have been collected annually since 2016. This survey relies on parent report of ADHD diagnosis by a healthcare provider.
+State-based Prevalence Estimates
+More information
+Parents reported whether a healthcare provider ever told them that their child had ADHD, and, if yes, whether their child currently had ADHD.
+Note on data:
+Differences between states may not necessarily be statistically significant.
+Learn more about which states have a statistically significantly lower or higher ADHD prevalence than the rest of the country.
+State-based Treatment Estimates
+More information about treatment type
+ADHD treatment:
+Includes children with current ADHD who received ADHD medication or ADHD behavior treatment, or both.
+ADHD behavior treatment:
+Parents reported whether a healthcare provider ever told them that their child had ADHD, and if yes, whether their child currently had ADHD and reported whether their child had received behavior treatment for ADHD in the past 12 months.
+ADHD medication:
+Parents reported whether a healthcare provider ever told them that their child had ADHD, and if yes, whether their child currently had ADHD and whether their child was currently taking medication for ADHD.

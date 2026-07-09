@@ -1,0 +1,77 @@
+CDC uses datasets from parent surveys and healthcare claims to understand diagnosis and treatment patterns for attention-deficit/hyperactivity disorder (ADHD).
+Estimates for diagnosis and treatment can vary depending on the source.
+This page includes ADHD data from different sources.
+ADHD diagnosis
+Millions of U.S. children have been diagnosed with ADHD.
+1
+An estimated 7 million (11.4%) U.S. children aged 3–17 years have ever been diagnosed with ADHD, according to a national survey of parents using data from 2022.
+Did you know?
+In 2022, an additional 1 million U.S. children aged 3-17 years had ever received an ADHD diagnosis compared to 2016.
+1
+2
+ADHD estimates by sex, race, and ethnicity:
+1
+Boys (15%) were more likely to be diagnosed with ADHD than girls (8%).
+Black children and White children were more often diagnosed with ADHD (both 12%) than Asian children (4%). American Indian/Alaska Native children (10%) were also more often diagnosed with ADHD than Asian children.
+Approximately 6% of Native Hawaiian/Pacific Islander children were diagnosed with ADHD.
+Overall, non-Hispanic children (12%) were diagnosed with ADHD more often than Hispanic children (10%).
+ADHD symptoms can vary in severity.
+About 6 in 10 children had moderate or severe ADHD.
+Children with both ADHD and
+another co-occurring condition,
+such as behavioral or conduct problems, learning disorders, anxiety, or depression, more often had severe ADHD than children with ADHD without other co-occurring conditions.
+See Also:
+Identifying Risk Factors for Attention-Deficit/Hyperactivity Disorder (ADHD): a Public Health Concern and Opportunity
+See Also:
+ADHD Prevalence Among U.S. Children and Adolescents in 2022: Diagnosis, Severity, Co-Occurring Disorders, and Treatment
+Estimates for ADHD diagnosis and treatment vary by state.
+3
+National estimates among U.S. children aged 3–17 years
+who have ever been diagnosed with ADHD
+vary from 6% to 16% across states.
+Estimates for receiving any
+ADHD treatment
+among children with current ADHD vary from 58% to 92% across states. ADHD treatments include:
+ADHD Treatment Types
+State Estimates
+ADHD Medication
+Vary from 38% to 81%
+ADHD Behavior Therapy
+Vary from 39% to 62%
+See Also:
+State-Level Estimates of the Prevalence of Parent-Reported ADHD Diagnosis and Treatment Among U.S. Children and Adolescents, 2016 to 2019
+Other concerns and conditions with ADHD
+Many children with ADHD also have other co-occurring conditions.
+1
+According to a national 2022 parent survey, nearly 78% of children with ADHD had at least one other co-occurring condition:
+Almost half of the children with ADHD had a
+behavior or conduct problem.
+About 4 in 10 of the children with ADHD had
+anxiety.
+Other conditions affecting children with ADHD include
+depression
+,
+autism spectrum disorder
+, and
+Tourette syndrome.
+Co-occurring Conditions with ADHD – Interactive Data Charts
+1
+Keep Reading:
+Other Concerns and Conditions with ADHD
+Treatment of ADHD
+Did you know?
+Treatment for ADHD can include behavior therapy and medication. Recommendations for the use of ADHD medication and behavior therapy are age specific. For children younger than 6 years of age, behavior therapy is recommended as the first line of treatment. For children 6 years of age and older, the American Academy of Pediatrics (AAP) recommends behavior therapy and medication, preferably together.
+Read more about ADHD treatment recommendations.
+Nearly 2 million U.S. children with ADHD did not receive ADHD-specific treatment in 2022.
+1
+A national parent survey from 2022 reported on medication and
+behavior treatment
+for children 3–17 years of age with current ADHD:
+About 30% of children with ADHD
+did not receive medication treatment or behavior treatment
+, compared with 23% of children 2–17 years of age with ADHD in 2016.
+1
+3
+About 32% children with ADHD
+received both medication treatment and behavior treatment.
+Overall, the total number of children receiving behavior treatment increased from 2016 (2.5 million) to 2022 (2.8 million).
